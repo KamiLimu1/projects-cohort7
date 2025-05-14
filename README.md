@@ -7,3 +7,5 @@ We're are first time contributors. Yay!
 2. Kioko
 3. Risper
 4. Amanda
+5. Sharleen
+
