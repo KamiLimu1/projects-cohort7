@@ -9,3 +9,4 @@ We're are first time contributors. Yay!
 3. Risper
 4. Amanda
 5. Bridgette Musango
+6. Vanessa
